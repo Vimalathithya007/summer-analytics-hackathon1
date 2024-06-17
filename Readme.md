@@ -1,4 +1,3 @@
-<h2> Problem Statement :</h2>
 
 <h2> MULTILABEL VACCINE PROBAILITY PREDICTION </h2>
 
