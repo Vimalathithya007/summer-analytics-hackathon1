@@ -29,9 +29,9 @@
         - v)XGBoost
 
 - models are trained with only one label xyz_vaccine/h1n1_vaccine
-- since the model has high imbalance  for xyz_vaccine/h1n1_vaccine
+- since the model has high imbalance  for xyz_vaccine/h1n1_vaccine compared to seasonal_vaccine as shown below
        
-     ![xyz_vaccine](readme_img/xyz_vaccine.png)      ![seasonal_vaccine](readme_img/seasonal_vaccine.png)
+     ![xyz_vaccine](readme_img/xyz_vaccine.png)     ![seasonal_vaccine](readme_img/seasonal_vaccine.png)
      
      - model which performed good on this label can be used for prediction of another label ( seasonal_vaccine)
     - Generic code for any model implement using a scikit pipeline
